@@ -1,0 +1,17 @@
+{
+    "name": "Personal",
+    "tasks": [
+        {
+            "description": "Read",
+            "completed": true
+        },
+        {
+            "description": "Write",
+            "completed": false
+        },
+        {
+            "description": "Study Python",
+            "completed": false
+        }
+    ]
+}
